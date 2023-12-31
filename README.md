@@ -7,7 +7,7 @@
 [Exercise 4](https://github.com/marekoz/IZHV_E4)\
 [Exercise 5](https://github.com/marekoz/IZHV_E5)\
 [Exercise 6](https://github.com/marekoz/IZHV_E6)\
-[Exercise 7](https://github.com/marekoz/IZHV_E7)\
+[Exercise 7](https://github.com/marekoz/IZHV_E7)
 
 ## GameJam Project
 [Source and documentation](https://github.com/marekoz/1ZHERV-Game-Jam---One-Rule)\
